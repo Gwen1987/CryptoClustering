@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+Starter_Code/
+anaconda_projects/
+Untitled.ipynb
